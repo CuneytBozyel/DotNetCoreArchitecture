@@ -1,0 +1,12 @@
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.deps.json
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.runtimeconfig.json
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.runtimeconfig.dev.json
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.dll
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.pdb
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.Resources.Texts.resources
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.csproj.GenerateResource.cache
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.AssemblyInfo.cs
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.dll
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.pdb

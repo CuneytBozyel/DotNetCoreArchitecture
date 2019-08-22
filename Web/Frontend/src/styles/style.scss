@@ -1,0 +1,90 @@
+app-layout, app-layout-main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+app-header {
+    background-color: #0A69b7;
+    padding: 1rem;
+}
+
+app-header * {
+    color: #FFF;
+    margin: 0;
+}
+
+main {
+    background-color: #FFF;
+    flex: auto;
+    padding: 1rem !important;
+}
+
+app-footer {
+    background-color: #242729;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+app-footer * {
+    color: #BBB;
+    margin: 0;
+}
+
+input.ng-dirty.ng-valid,
+input.ng-touched.ng-valid,
+select.ng-dirty.ng-valid,
+select.ng-touched.ng-valid,
+textarea.ng-dirty.ng-valid,
+textarea.ng-touched.ng-valid,
+.ng-dirty.ng-valid > input,
+.ng-touched.ng-valid > input,
+.ng-dirty.ng-valid > select,
+.ng-touched.ng-valid > select,
+.ng-dirty.ng-valid > textarea,
+.ng-touched.ng-valid > textarea {
+    background-color: #EDFBF6;
+    border: 0.05rem solid #32D296;
+    color: #32D296;
+}
+
+input.ng-dirty.ng-invalid,
+input.ng-touched.ng-invalid,
+select.ng-dirty.ng-invalid,
+select.ng-touched.ng-invalid,
+textarea.ng-dirty.ng-invalid,
+textarea.ng-touched.ng-invalid,
+.ng-dirty.ng-invalid > input,
+.ng-touched.ng-invalid > input,
+.ng-dirty.ng-invalid > select,
+.ng-touched.ng-invalid > select,
+.ng-dirty.ng-invalid > textarea,
+.ng-touched.ng-invalid > textarea {
+    background-color: #FEF4F6;
+    border: 0.05rem solid #F0506E;
+    color: #F0506E;
+}
+
+input:disabled,
+select:disabled,
+textarea:disabled,
+:disabled > input,
+:disabled > select,
+:disabled > textarea {
+    background-color: #F8F8F8 !important;
+    border-color: #E5E5E5 !important;
+    color: #999 !important;
+}
+
+.icon {
+    vertical-align: text-bottom;
+}
+
+.nav {
+    border: 1px solid #DDD;
+}
+
+.nav-active * {
+    color: #000;
+    font-weight: 500;
+}

@@ -1,0 +1,16 @@
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.deps.json
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.runtimeconfig.json
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.runtimeconfig.dev.json
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.dll
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.pdb
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.dll
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.dll
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.pdb
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.pdb
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.csprojAssemblyReference.cache
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.csproj.CopyComplete
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.dll
+C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Domain\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Domain.pdb

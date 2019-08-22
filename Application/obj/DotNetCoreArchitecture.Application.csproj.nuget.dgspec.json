@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Application\\DotNetCoreArchitecture.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Application\\DotNetCoreArchitecture.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Application\\DotNetCoreArchitecture.Application.csproj",
+        "projectName": "DotNetCoreArchitecture.Application",
+        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Application\\DotNetCoreArchitecture.Application.csproj",
+        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj": {
+                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj"
+              },
+              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj",
+        "projectName": "DotNetCoreArchitecture.CrossCutting",
+        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj",
+        "projectName": "DotNetCoreArchitecture.Database",
+        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj",
+        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj"
+              },
+              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj": {
+                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "DotNetCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.12.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj",
+        "projectName": "DotNetCoreArchitecture.Domain",
+        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj": {
+                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj",
+        "projectName": "DotNetCoreArchitecture.Model",
+        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj",
+        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "DotNetCore.Security": {
+              "target": "Package",
+              "version": "[8.12.0, )"
+            },
+            "DotNetCore.Validation": {
+              "target": "Package",
+              "version": "[8.12.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

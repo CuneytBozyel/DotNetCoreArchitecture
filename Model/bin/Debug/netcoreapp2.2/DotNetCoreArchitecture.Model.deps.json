@@ -1,0 +1,242 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "be688610493e3e7335b90eadd2857d12710ec3ef"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "DotNetCoreArchitecture.Model/1.0.0": {
+        "dependencies": {
+          "DotNetCore.Security": "8.12.0",
+          "DotNetCore.Validation": "8.12.0",
+          "DotNetCoreArchitecture.CrossCutting": "1.0.0"
+        },
+        "runtime": {
+          "DotNetCoreArchitecture.Model.dll": {}
+        }
+      },
+      "DotNetCore.Extensions/8.12.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/DotNetCore.Extensions.dll": {
+            "assemblyVersion": "8.12.0.0",
+            "fileVersion": "8.12.0.0"
+          }
+        }
+      },
+      "DotNetCore.Objects/8.12.0": {
+        "dependencies": {
+          "DotNetCore.Extensions": "8.12.0",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/DotNetCore.Objects.dll": {
+            "assemblyVersion": "8.12.0.0",
+            "fileVersion": "8.12.0.0"
+          }
+        }
+      },
+      "DotNetCore.Security/8.12.0": {
+        "dependencies": {
+          "System.IdentityModel.Tokens.Jwt": "5.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/DotNetCore.Security.dll": {
+            "assemblyVersion": "8.12.0.0",
+            "fileVersion": "8.12.0.0"
+          }
+        }
+      },
+      "DotNetCore.Validation/8.12.0": {
+        "dependencies": {
+          "DotNetCore.Objects": "8.12.0",
+          "FluentValidation": "8.4.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/DotNetCore.Validation.dll": {
+            "assemblyVersion": "8.12.0.0",
+            "fileVersion": "8.12.0.0"
+          }
+        }
+      },
+      "FluentValidation/8.4.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.4.0.0"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.JsonWebTokens/5.5.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Tokens": "5.5.0",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
+            "assemblyVersion": "5.5.0.0",
+            "fileVersion": "5.5.0.60624"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Logging/5.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {
+            "assemblyVersion": "5.5.0.0",
+            "fileVersion": "5.5.0.60624"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Tokens/5.5.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Logging": "5.5.0",
+          "Newtonsoft.Json": "12.0.2",
+          "System.Security.Cryptography.Cng": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "5.5.0.0",
+            "fileVersion": "5.5.0.60624"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.4.1": {},
+      "System.IdentityModel.Tokens.Jwt/5.5.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.JsonWebTokens": "5.5.0",
+          "Microsoft.IdentityModel.Tokens": "5.5.0",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {
+            "assemblyVersion": "5.5.0.0",
+            "fileVersion": "5.5.0.60624"
+          }
+        }
+      },
+      "System.Security.Cryptography.Cng/4.5.0": {
+        "runtimeTargets": {
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "DotNetCoreArchitecture.CrossCutting/1.0.0": {
+        "runtime": {
+          "DotNetCoreArchitecture.CrossCutting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetCoreArchitecture.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetCore.Extensions/8.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LFyuxQbkIMZb5Smo+2fH28S9zPk5QCTnkzzNnHdf2f7DqEfgt+f2+Wies3E/gTHLgM1nimijQv9heKYs+M+Fcw==",
+      "path": "dotnetcore.extensions/8.12.0",
+      "hashPath": "dotnetcore.extensions.8.12.0.nupkg.sha512"
+    },
+    "DotNetCore.Objects/8.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8kRIHTrQG+4gPQP5VvRFVIjocxm35txZQo9kkhDkSCgYlT8eXYDjsTauhkYQ1T4zu+ZfdjEiCDvt3W13bPZrvQ==",
+      "path": "dotnetcore.objects/8.12.0",
+      "hashPath": "dotnetcore.objects.8.12.0.nupkg.sha512"
+    },
+    "DotNetCore.Security/8.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C0g98wJkzOoB0+Weau66GgYvdmmI00I5En4MgwCd9SdrOOhFnW7vMZ7F/dxkJ7S2jYyzAXCiJhEaA27g8bgIaw==",
+      "path": "dotnetcore.security/8.12.0",
+      "hashPath": "dotnetcore.security.8.12.0.nupkg.sha512"
+    },
+    "DotNetCore.Validation/8.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EcNvbBnrHsL1GzIwFCtLky5E+bqL37/0QYkid1CpTxyYgHLp6jVgErqxn3ncdvnUyIoQytEe37uuHXQygbeK6Q==",
+      "path": "dotnetcore.validation/8.12.0",
+      "hashPath": "dotnetcore.validation.8.12.0.nupkg.sha512"
+    },
+    "FluentValidation/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/VApywgD2sqD3aB1tzub6SIItmwxXN0D5yAiP3kuFHmjYO1W+Ryi531/m4O03/hlfcYrBgewDJn7Jd1Xk0vTdw==",
+      "path": "fluentvalidation/8.4.0",
+      "hashPath": "fluentvalidation.8.4.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.JsonWebTokens/5.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cT9SCW/dN+ulrvAtbh37c36DR6aArENH3S4UtFmvXRx+VGC0ArDgzRaEbEh+ChS4koxdl2oS691250iZhgKvwg==",
+      "path": "microsoft.identitymodel.jsonwebtokens/5.5.0",
+      "hashPath": "microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.Logging/5.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1w/Hz/7+al+ugQn+6y0tAPmpN8U0u1aBtl1QXYCVkiJfbCC4tgyroFOuhdztOq48rgeM+3JW9bGqOtkfVurW8w==",
+      "path": "microsoft.identitymodel.logging/5.5.0",
+      "hashPath": "microsoft.identitymodel.logging.5.5.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.Tokens/5.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cu1klZiuCwVYbXHs0QdnseuoRGG1/85VX9d1Sk0vbJlKp+HJUN/4pAS/fe2m9bTOYyIPdeCHeksMiVHgo1EfAA==",
+      "path": "microsoft.identitymodel.tokens/5.5.0",
+      "hashPath": "microsoft.identitymodel.tokens.5.5.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
+      "path": "system.componentmodel.annotations/4.4.1",
+      "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    },
+    "System.IdentityModel.Tokens.Jwt/5.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xa8kptJ+uf9hzj366f3pLcs5HFZ6dQMDKzEGq/yZNF0s3mVfyIhuQwgDcTJlAU4AROne/6Z5+vITwrW3gVNKIA==",
+      "path": "system.identitymodel.tokens.jwt/5.5.0",
+      "hashPath": "system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Cng/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
+      "path": "system.security.cryptography.cng/4.5.0",
+      "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    },
+    "DotNetCoreArchitecture.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
