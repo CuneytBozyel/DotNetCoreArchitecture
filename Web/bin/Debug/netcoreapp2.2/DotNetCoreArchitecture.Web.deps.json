@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "a4d761ac8b038ce1a16bc752dd33c85c7e23bd29"
+    "signature": ""
   },
   "compilationOptions": {
     "defines": [
@@ -29,7 +29,8 @@
           "DotNetCoreArchitecture.Application": "1.0.0",
           "DotNetCoreArchitecture.Database": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "Microsoft.TypeScript.MSBuild": "3.9.2"
         },
         "runtime": {
           "DotNetCoreArchitecture.Web.dll": {}
@@ -397,6 +398,7 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {}
         }
       },
+      "Microsoft.TypeScript.MSBuild/3.9.2": {},
       "Microsoft.Win32.Primitives/4.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.2.0",
@@ -728,20 +730,6 @@
           "System.Threading.Thread": "4.3.0",
           "System.Threading.ThreadPool": "4.0.10",
           "runtime.native.System": "4.3.0"
-        },
-        "runtimeTargets": {
-          "runtime/linux/lib/_._": {
-            "rid": "linux",
-            "assetType": "runtime"
-          },
-          "runtime/osx/lib/_._": {
-            "rid": "osx",
-            "assetType": "runtime"
-          },
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
         }
       },
       "System.IdentityModel.Tokens.Jwt/5.5.0": {
@@ -3965,6 +3953,13 @@
       "sha512": "sha512-cu1klZiuCwVYbXHs0QdnseuoRGG1/85VX9d1Sk0vbJlKp+HJUN/4pAS/fe2m9bTOYyIPdeCHeksMiVHgo1EfAA==",
       "path": "microsoft.identitymodel.tokens/5.5.0",
       "hashPath": "microsoft.identitymodel.tokens.5.5.0.nupkg.sha512"
+    },
+    "Microsoft.TypeScript.MSBuild/3.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6bjf48RsqJSXCMOCoc86sKTLlxOKoSY047J8KbOZ1e3QmapSA0tKhwLrSGHWmdHK6OXwJGrhNMCZ6YVCC9YfvQ==",
+      "path": "microsoft.typescript.msbuild/3.9.2",
+      "hashPath": "microsoft.typescript.msbuild.3.9.2.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.0.1": {
       "type": "package",

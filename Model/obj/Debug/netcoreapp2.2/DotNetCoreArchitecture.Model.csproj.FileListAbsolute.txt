@@ -12,3 +12,17 @@ C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Model\obj\Debug\netco
 C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.csproj.CopyComplete
 C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.dll
 C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.pdb
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.deps.json
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.runtimeconfig.json
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.runtimeconfig.dev.json
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.dll
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.pdb
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.dll
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.pdb
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.csproj.CopyComplete
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.dll
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.pdb
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\Model\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.Model.genruntimeconfig.cache

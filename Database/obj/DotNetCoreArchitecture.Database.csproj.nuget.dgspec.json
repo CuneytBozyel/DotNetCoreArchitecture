@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj": {}
+    "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Database\\DotNetCoreArchitecture.Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj": {
+    "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj",
         "projectName": "DotNetCoreArchitecture.CrossCutting",
-        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -52,30 +47,31 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj": {
+    "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Database\\DotNetCoreArchitecture.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Database\\DotNetCoreArchitecture.Database.csproj",
         "projectName": "DotNetCoreArchitecture.Database",
-        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\DotNetCoreArchitecture.Database.csproj",
-        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Database\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Database\\DotNetCoreArchitecture.Database.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Database\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -87,11 +83,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj"
+              "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Domain\\DotNetCoreArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Domain\\DotNetCoreArchitecture.Domain.csproj"
               },
-              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj": {
-                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj"
+              "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\DotNetCoreArchitecture.Model.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\DotNetCoreArchitecture.Model.csproj"
               }
             }
           }
@@ -118,30 +114,31 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Domain\\DotNetCoreArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Domain\\DotNetCoreArchitecture.Domain.csproj",
         "projectName": "DotNetCoreArchitecture.Domain",
-        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\DotNetCoreArchitecture.Domain.csproj",
-        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Domain\\DotNetCoreArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -153,8 +150,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj": {
-                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj"
+              "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\DotNetCoreArchitecture.Model.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\DotNetCoreArchitecture.Model.csproj"
               }
             }
           }
@@ -177,30 +174,31 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj": {
+    "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\DotNetCoreArchitecture.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\DotNetCoreArchitecture.Model.csproj",
         "projectName": "DotNetCoreArchitecture.Model",
-        "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\DotNetCoreArchitecture.Model.csproj",
-        "packagesPath": "C:\\Users\\Cuneyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\Model\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\DotNetCoreArchitecture.Model.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Cuneyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -212,8 +210,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\Cuneyt\\source\\repos\\DotNetCoreArchitecture\\source\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj"
+              "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\ef\\DotNetCoreArchitecture\\CrossCutting\\DotNetCoreArchitecture.CrossCutting.csproj"
               }
             }
           }
@@ -244,10 +242,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "be688610493e3e7335b90eadd2857d12710ec3ef"
+    "signature": ""
   },
   "compilationOptions": {},
   "targets": {
@@ -126,14 +126,7 @@
           }
         }
       },
-      "System.Security.Cryptography.Cng/4.5.0": {
-        "runtimeTargets": {
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
-        }
-      },
+      "System.Security.Cryptography.Cng/4.5.0": {},
       "DotNetCoreArchitecture.CrossCutting/1.0.0": {
         "runtime": {
           "DotNetCoreArchitecture.CrossCutting.dll": {}

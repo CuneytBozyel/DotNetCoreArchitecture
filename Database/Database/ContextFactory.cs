@@ -9,7 +9,7 @@ namespace DotNetCoreArchitecture.Database
         {
             var builder = new DbContextOptionsBuilder<Context>();
 
-            builder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=Database;");
+            builder.UseSqlServer("Server=CB\\MSSQLSERVERTEST;Database=DotNetCore;Integrated Security=True;");
 
             return new Context(builder.Options);
         }

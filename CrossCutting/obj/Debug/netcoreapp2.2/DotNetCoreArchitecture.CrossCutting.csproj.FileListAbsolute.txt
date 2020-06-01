@@ -10,3 +10,15 @@ C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debu
 C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.AssemblyInfo.cs
 C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.dll
 C:\Users\Cuneyt\source\repos\DotNetCoreArchitecture\source\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.pdb
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.deps.json
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.runtimeconfig.json
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.runtimeconfig.dev.json
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.dll
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\bin\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.pdb
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.Resources.Texts.resources
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.AssemblyInfo.cs
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.dll
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.pdb
+C:\Users\user\Desktop\ef\DotNetCoreArchitecture\CrossCutting\obj\Debug\netcoreapp2.2\DotNetCoreArchitecture.CrossCutting.genruntimeconfig.cache
